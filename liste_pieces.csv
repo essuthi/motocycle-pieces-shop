@@ -1,0 +1,344 @@
+IDENTIFIANT;	NOM;	QUANTITE;	PRIX D'ACHAT;	PREMIER PRIX DE VENTE;	DEUXIEME PRIX DE VENTE
+25a;	accide batterie;	20.0;	250;	500;	500
+1a;	amortisseur FCNCO;	5.0;	8000;	11000;	10000
+20a;	amortisseur GN;	1.0;	8000;	10000;	9500
+12a;	ampoule clignottant;	65.0;	40;	100;	100
+19a;	ampoule en paquet JHSY;	36.0;	250;	500;	500
+15a;	ampoule feu stop arrière;	29.0;	150;	300;	250
+13a;	ampoule feu stop SIDER;	76.0;	70;	200;	200;
+14a;	ampoule ronde;	85.0;	130;	300;	300
+18a;	arbre à came CG 125 3W&V6;	4.0;	3300;	5000;	5000
+2a;	arbre à came complet CG 125 JHSY;	4.0;	3500;	5000;	5000
+4a;	arbre à came simple CG 150 3M&V6;	2.0;	2400;	4000;	3500
+3a;	arbre à came simple CG 150 DAHE; 3.0;	2300;	3500;	3000
+24a;	arret huile demarreur;	9.0;	100;	200;	200
+17a;	arret huile en paquet CG 150 CNAZA;	8.0;	100;	200;	200
+22a;	arret huile fourche 43;	9.0;	150;	300;	300
+23a;	arret huile fourche 44;	8.0;	150;	300;	300
+21a;	arret huile fourche BAJA;	8.0;	150;	300;	300
+10a;	axe arrière;	5.0;	450;	1000;	800
+5a;	axe arriere BAJA;	3.0;	700;	1300;	1000
+6a;	axe arrière TVS;	3.0;	900;	1500;	1300
+11a;	axe avant;	5.0;	350;	1000;	800
+9a;	axe central;	18.0;	400;	1000;	800
+16a;	axe du pousse FUKI;	7.0;	400;	800;	600
+7a;	axe pignon avant CG 125 3M;	5.0;	1000;	2000;	1500
+8a;	axe pigon avant CG 150 JHSY;	9.0;	1000;	2000;	1500
+24b;	bague échappement CG;	2.0;	600;	1000;	800
+23b;	bague échappement complet GN;	2.0;	600;	1000;	800
+22b;	bague tuyau échapement GN 125;	18.0;	50;	200;	200
+21b;	bague tuyau echapement GN 125 TVS PH;	19.0;	50;	200;	200
+11b;	balance CG 125 JHSY;	6.0;	1000;	1500;	1300
+54b;	batterie JHSY grand;	1.0;	5800;	7000;	6500
+52b;	batterie MBOMA grand;	2.0;	8500;	12000;	11000
+53b;	batterie MBOMA petit;	2.0;	6300;	9000;	8500
+15b;	bavette large du complet NANFAN;	5.0;	450;	1000;	800
+14b;	bavette large du complet SANILI;	2.0;	450;	1000;	800
+16b;	bavette petit du complet NANFAN;	4.0;	250;	500;	500
+13b;	bavette petit du complet SANILI;	5.0;	250;	500;	500
+12b;	bavette petite simple SANILI;	19.0;	250;	500;	500
+40b;	bavette simple ordinaire;	15.0;	550;	1000;	800
+55b;	bettrie JHSY petit;	1.0;	7500;	10000;	9000
+43b;	bidon huile MACAT 5L;	3.0;	4417;	5000;	5000
+27b;	bille complet du volant CG 200 MR LI;	0.0;	2200;	4000;	3500
+18b;	bille du guidon CG 125 JHSY;	5.0;	550;	1000;	1000
+17b;	bille du guidon GS  125 JHSY;	10.0;	600;	1000;	1000
+9b;	bille volant;	13.0;	250;	1500;	1000
+25b;	bobine de démarrage CG 150 3M&V6;	3.0;	2450;	3500;	3000
+3b;	bobine de démarrage CG 150 JHSY;	5.0;	2400;	3500;	3000
+26b;	bobine de démarrage CG 200 3M&V6;	2.0;	3500;	5000;	4500
+39b;	boite à marche arrière tricycle;	1.0;	14000;	16000;	15500
+4b;	boitier CG 125 JHSY;	8.0;	2400;	3500;	3000
+38b;	bouchon moteur;	18.0;	150;	300;	250
+8b;	bouchon reservoir CG 125 YESSONG;	9.0;	1000;	1500;	1300
+6b;	bouchon reservoir GN 125 YESONG;	11.0;	1000;	1500;	1500
+1b;	bougie baja DAHE;	43.0;	200;	500;	500
+2b;	bougie JHSY;	40.0;	200;	500;	500
+7b;	bougie MTR;	50.0;	250;	500;	500
+10b;	bougie stihl BM6A;	8.0;	350;	1000;	500
+5b;	bougie TYP;	47.0;	200;	500;	500
+32b;	boulon 10 court;	78.0;	25;	50;	50
+31b;	boulon 10 long;	3.0;	25;	50;	50
+34b;	boulon 13 court 13/100;	6.0;	75;	100;	150
+36b;	boulon 13 court 13/20;	91.0;	45;	100;	100
+35b;	boulon 13 court 13/35;	83.0;	35;	100;	150
+33b;	boulon 17;	47.0;	75;	150;	100
+28b;	boulon couvre chaine et pignon avant;	192.0;	20;	50;	50
+56b;	boulon de pignon BAJA;	100.0;	15;	50;	25
+57b;	boulon de vidange 24;	10.0;	300;	500;	500
+37b;	boulon et ecrou pot de phare;	100.0;	30;	100;	100
+20b;	boulon plateau GN;	17.0;	250;	500;	500
+29b;	boulon porte pignon CG senke;	8.0;	250;	500;	500
+19b;	boulon porte pignon complet GN;	20.0;	200;	500;	500
+30b;	boulon porte pigon BAJA;	3.0;	250;	500;	500
+45b;	bouteille huile  de frein petit SEKAZOL;	40.0;	292;	500;	500
+48b;	bouteille huile BOCOM;	24.0;	1750;	2000;	2000
+50b;	bouteille huile de direction ATF;	11.0;	1167;	1500;	1500
+46b;	bouteille huile de frein e5;	16.0;	717;	1000;	1000
+42b;	bouteille huile MACAT 1L;	18.0;	1209;	1500;	1500
+44b;	bouteille huile NATIONAL;	4.0;	1583;	1800;	1800
+47b;	bouteille huile PETROGOLF;	6.0;	1834;	2000;	2000
+51b;	bouteille huile SUPER;	109.0;	200;	250;	250
+49b;	bouteille huile YAMALUBE;	39.0;	2350;	2600;	2500
+41b;	bouteille huile YEMPCO;	26.0;	1125;	1500;	1500
+54c;	cable accélérateur BAJA 3W&V6;	10.0;	400;	1000;	700
+51c;	cable accélérateur CG 125;	33.0;	300;	1000;	700
+55c;	cable accélérateur en sachet CG 125 FB;	68.0;	300;	1000;	700
+56c;	cable accélérateur en sachet GN 125 SENLI;	12.0;	300;	1000;	700
+52c;	cable accélérateur GN;	80.0;	300;	1000;	700
+21c;	cable accélerateur TVS BRH;	20.0;	450;	1000;	800
+53c;	cable embreyage BAJA 3W&V6;	10.0;	450;	1000;	700
+19c;	cable embreyage BAJA D&C;	19.0;	450;	1000;	800
+50c;	cable embreyage CG 125;	36.0;	300;	1000;	700
+49c;	cable embreyage GN;	91.0;	300;	1000;	700
+20c;	cable embreyage TVS BRH;	20.0;	450;	1000;	800
+37c;	cable nu;	384.0;	25;	200;	200
+59c;	calle pignon avant TVS et BAJA;	20.0;	100;	200;	200
+40c;	caoutchouc pose pied;	10.0;	500;	1000;	1000
+39c;	capo CG;	5.0;	2400;	3000;	2800
+38c;	capo GN;	5.0;	2400;	3000;	2800
+11c;	carburateur D&C en carton;	2.0;	3250;	7000;	5000
+12c;	carburateur en boite;	5.0;	3400;	7000;	5000
+4c;	CDI JHSY;	2.0;	650;	2000;	1500
+23c;	chaine complète BAJA 3M&V6;	4.0;	3800;	4500;	4500
+44c;	chaine complète BAJA D&C;	2.0;	3500;	5000;	4500
+8c;	chaine complète CGL 125 JHSY;	4.0;	3500;	4000;	4000
+2c;	chaine complète CGL JHOR;	3.0;	3200;	4000;	4000
+7c;	chaine complète FCNCO;	9.0;	3300;	4000;	4000
+6c;	chaine complète GN 125 FX;	1.0;	3250;	4000;	4000
+3c;	chaine complète TVS JHOR;	14.0;	3300;	4000;	4000
+58c;	chaine moteur BAJA en paquet;	2.0;	1000;	2000;	1800
+9c;	chaine moteur en carton BAJA;	5.0;	1000;	2000;	1500
+10c;	chaine moteur TVS;	3.0;	1000;	2000;	1500
+24c;	chaine simple 3M&V6 BAJA;	12.0;	2000;	2500;	2500
+32c;	chaine simple DAHE;	7.0;	1550;	2000;	2000
+30c;	chambre à aire 250/17 CST;	12.0;	1900;	2500;	2500
+35c;	chambre à aire 275/18 CST;	8.0;	1900;	2500;	2500
+60c;	chambre à aire 300/16 OREAL TUBE;	10.0;	1400;	2500;	2000
+29c;	chambre à aire 300/17 CST;	12.0;	2000;	3000;	2500
+27c;	chambre à aire 300/17 OREAL TUBE;	5.0;	1000;	2000;	1500
+26c;	chambre à aire 300/18 CST;	5.0;	2200;	3000;	2500
+28c;	chambre à aire 300/18 OREAL TUBE;	23.0;	1000;	2000;	1500
+14c;	chambre à aire 350/16 CST;	11.0;	2100;	3000;	2500
+34c;	chambre à aire 500/12 CST;	3.0;	2000;	3500;	3000
+61c;	chapeau bougie;	20.0;	150;	500;	300
+31c;	charbon de démarreur CG 150 MTR;	5.0;	800;	1500;	1300
+13c;	chargeur baterrie CG 125 JHSY;	4.0;	1000;	2000;	1500
+18c;	chargeur batterie CG 200 JHSY;	3.0;	1500;	2500;	2000
+57c;	claçon grand YH 7615;	1.0;	1500;	2500;	2500
+5c;	claçon petit 3M & V6;	10.0;	500;	1000;	1000
+15c;	clé de contact CG 125 D&C;	5.0;	600;	1000;	1000
+16c;	clé de contact GN 125 YESSONG;	6.0;	900;	1500;	1500
+17c;	clé de contact senke YESSONG;	10.0;	1100;	2000;	1500
+45c;	clignotant;	29.0;	500;	1000;	800
+22c;	colle bleu;	12.0;	500;	1000;	800;
+25c;	colle reservoir;	23.0;	500;	1000;	800
+43c;	couvre chaine BAJA;	1.0;	3000;	4500;	4000
+42c;	couvre chaine CGL SENKE;	2.0;	2200;	3500;	3500
+41c;	couvre chaine GN;	4.0;	1500;	2500;	2000
+36c;	croison petit;	3.0;	1500;	3000;	3000
+47c;	cylinbloc demi chassi;	62.0;	100;	200;	200
+48c;	cylinbloc du guidon;	12.0;	100;	200;	200
+46c;	cylinbloc pour la roue;	124.0;	100;	200;	200
+33c;	cylindre CG 150 DAHE;	1.0;	7500;	10000;	9000
+1c;	cylindre CG 150 JHSY;	4.0;	7500;	10000;	9000
+3d;	demarreur automtique;	4.0;	4300;	6000;	7500
+7d;	démarreur droit;	3.0;	900;	1300;	1200
+8d;	démarreur S JHSY;	5.0;	1000;	1300;	1200
+6d;	démarreur senke JHSY;	8.0;	900;	1300;	1200
+9d;	démarreur tryicyle;	2.0;	1500;	2500;	2500
+13d;	demi arbre BAJA;	5.0;	500;	1000;	800
+14d;	demi arbre TVS;	5.0;	750;	1000;	1000
+5d;	disque baja BJ100;	8.0;	800;	1500;	1500
+4d;	disque CG 125  MTR;	5.0;	1000;	2000;	2000
+12d;	disque CG 125 3M&V6;	3.0;	700;	1500;	1300
+2d;	disque CG 125 JHSY;	13.0;	700;	1500;	1300
+11d;	disque CG 125 MTR;	9.0;	1000;	2000;	2000
+1d;	disque CG 200 JHSY;	5.0;	1100;	2000;	2000
+16d;	disque compté;	20.0;	1400;	2000;	2000
+10d;	douille de feu stop;	27.0;	150;	250;	200
+15d;	douille de phare;	8.0;	300;	500;	500
+4e;	ecrou 10;	82.0;	12;	50;	50
+3e;	ecrou 13;	79.0;	15;	50;	50
+2e;	ecrou 17;	48.0;	60;	200;	200
+1e;	ecrou 19;	47.0;	75;	200;	200
+3f;	faiseau CG125 JHSY;	2.0;	2500;	3500;	3000
+2f;	faiseau GN 125 JHSY;	4.0;	2500;	3500;	3000
+6f;	feu stop en paquet;	4.0;	800;	1200;	1000
+10f;	feu stop long;	6.0;	400;	1000;	800
+14f;	feu stop rectangle police;	5.0;	1000;	1500;	1300
+8f;	feu stop rond gros;	2.0;	1000;	1500;	1300
+7f;	feu stop rond petit;	3.0;	600;	1000;	800
+9f;	feu stop stop;	4.0;	1000;	1500;	1300
+5f;	filtre à essence;	40.0;	75;	200;	200
+11f;	fourche CGL SENKE;	1.0;	14000;	18000;	16000
+12f;	fourche GN;	1.0;	15000;	18000;	16500
+13f;	fronde;	95.0;	125;	200;	200
+1f;	fusible;	97.0;	25;	100;	100
+17g;	gante arrière CGL;	1.0;	14500;	17000;	16000
+15g;	garde boue arrière GN;	2.0;	2800;	4000;	3500
+13g;	garde boue avant CGL;	4.0;	2700;	3500;	3500
+14g;	garde boue avant GN;	2.0;	2700;	3500;	3500
+3g;	garniture arrière RS 125 BAJA DAHE;	91.0;	700;	1000;	1000
+4g;	garniture avant BAJA AX10025 DAHE;	97.0;	850;	1000;	1000
+10g;	garniture CG 125 OTUGO grand;	2.0;	600;	1000;	1000
+1g;	garniture CG 125 OTUGO petit;	16.0;	600;	1000;	1000
+12g;	garniture gros tricycle;	4.0;	4500;	5000;	5000
+11g;	garniture petit tricycle MR LI;	2.0;	4000;	5000;	5000
+5g;	garniture RS 125 PHOENIX;	77.0;	850;	1000;	1000
+2g;	garniture RX 125 JHSY;	90.0;	850;	1000;	1000
+22g;	gente arrière CGL;	2.0;	14500;	17000;	16000
+16g;	gente arrière GN;	0.0;	14500;	17000;	16000
+18g;	gente arrière TVS;	1.0;	14000;	17000;	16000
+9g;	gorge carburateur CG;	2.0;	1000;	1500;	1500
+7g;	gorge carburateur CGL;	10.0;	450;	1500;	1000
+8g;	gorge carburateur GN;	3.0;	700;	1500;	1500
+19g;	graisse;	324.0;	66;	100;	100
+6g;	guide soupape;	5.0;	400;	1000;	1000
+21g;	guidon CG;	2.0;	1800;	2500;	2500
+20g;	guidon GN;	2.0;	1800;	2500;	2500
+14j;	jeu de bille volant moteur complet;	2.0;	1500;	3000;	2500
+8j;	joint de carter BAJA;	10.0;	50;	200;	200
+5j;	joint de carter ordinaire;	39.0;	50;	200;	200
+9j;	joint de carter TVS;	10.0;	50;	200;	200
+6j;	joint de culasse BAJA;	10.0;	50;	200;	200
+2j;	joint de culasse ordinaire;	46.0;	100;	200;	200
+7j;	joint de culasse TVS;	10.0;	50;	200;	200
+13j;	joint de cylindre BAJA et TVS;	20.0;	50;	200;	200
+3j;	joint de cylindre ordinaire;	36.0;	50;	200;	200
+1j;	joint de soupapes en fer et en plastique;	224.0;	50;	250;	150
+10j;	joint de volant ou disque BAJA;	10.0;	50;	200;	200
+4j;	joint de volant ou disque ordinaire;	38.0;	50;	200;	200
+11j;	joint de volant ou disque TVS;	10.0;	50;	200;	200
+2l;	laser anti brouillard D&C;	1.0;	1500;	2500;	2000
+1l;	lazer anti brouillard 3W&V6;	2.0;	1300;	2500;	2000
+5l;	lecteur MP3 grand;	1.0;	6500;	8000;	7500
+4l;	lecteur MP3 petit;	5.0;	5500;	6500;	6000
+3l;	levier de vitesse;	13.0;	600;	1000;	1000
+5m;	manette droit CG;	3.0;	250;	500;	500
+2m;	manette droit GN;	10.0;	250;	500;	500
+4m;	manette gauche CG;	16.0;	250;	500;	500
+1m;	manette gauche GN;	18.0;	250;	500;	500
+3m;	moteur clignottant JHSY;	19.0;	300;	1000;	700
+3p;	pédale de frein CG;	7.0;	1000;	2000;	1800
+15p;	pignon arrière simple BAJA TACO;	14.0;	1100;	1500;	1300
+8p;	pignon arrière simple GN FX;	3.0;	1100;	1500;	1500
+9p;	pignon avant simple FX;	88.0;	250;	500;	500
+12p;	pignon avat TVS MR LI;	21.0;	250;	500;	500
+10p;	pignon avec calle;	20.0;	350;	1000;	800
+48p;	pignon plateau 37T;	1.0;	3200;	4500;	4000
+64p;	pignon simple BAJA 3M&V6;	2.0;	1700;	2000;	2000
+11p;	pigon arrière simple CGL FX;	32.0;	1100;	1500;	1300
+47p;	pigon plateau 38T;	1.0;	3200;	4500;	4000
+25p;	piston BAJA en boite D&C;	6.0;	1500;	2500;	2500
+24p;	piston BAJA en carton 3M&V6;	2.0;	1400;	2500;	2500
+27p;	piston CD 110;	5.0;	1400;	2500;	2500
+23p;	piston CG 125 3M&V6;	3.0;	1400;	2500;	2500
+39p;	piston CG 150 STD+ 3M&V6;	10.0;	1500;	2500;	2500
+35p;	piston CG 150 STD++ 3M&V6;	7.0;	1500;	2500;	2500
+4p;	piston CG 200 JHSY;	4.0;	1800;	3500;	3000
+5p;	piston FCNCO STD+ 150;	16.0;	1500;	2500;	2500
+26p;	piston TVS D&C;	5.0;	1400;	2500;	2500
+59p;	plaque SANILI;	10.0;	250;	500;	500
+20p;	plaquette de frein GN 125 JHSY;	17.0;	400;	1000;	700
+67p;	pneu 275/17 avant BLEU;	6.0;	5200;	6000;	6000
+65p;	pneu 275/18 oreal STP et CORDIAL;	6.0;	5500;	6000;	6000
+62p;	pneu 300/16 CST;	3.0;	13300;	14500;	14000
+63p;	pneu 300/17 CST;	5.0;	12300;	13500;	13000
+58p;	pneu 300/17 STP;	7.0;	6400;	8000;	7500
+61p;	pneu 300/18 CST;	4.0;	12200;	13500;	13000
+66p;	pneu 300/18 STP;	10.0;	6400;	8000;	7500
+14p;	pochette de joins BAJA;	5.0;	500;	1000;	1000
+13p;	pochette de joins complet CG 150;	12.0;	500;	1000;	800
+33p;	poignet à huile coté droit GN 125 DAHE;	4.0;	1600;	2500;	2500
+34p;	poignet accélérateur;	10.0;	250;	1000;	1000
+70p;	poignet bouton bleu simple gauche GK;	4.0;	350;	500;	500
+53p;	poignet bouton rouge GK;	8.0;	1100;	2000;	1500
+60p;	poignet bouton rouge GN;	10.0;	1000;	2000;	1500
+71p;	poignet complet gauche GN;	5.0;	300;	500;	500
+1p;	pompe à huile CG 125 JHSY;	14.0;	650;	1500;	1000
+21p;	porte baterrie;	15.0;	100;	200;	200
+52p;	porte clé;	17.0;	83;	200;	200
+43p;	porte disque 3 trous CG 150 3M&V6;	1.0;	1500;	2500;	2500
+37p;	porte disque 4 trous CG 125 JHSY;	3.0;	1400;	2500;	2500
+44p;	porte disque 5 trous complet CG 150 3M&V6;	1.0;	2000;	3500;	3500
+41p;	porte disque 5 trous simple CG150 3M&V6;	1.0;	1500;	2500;	2500
+40p;	porte disque 6 trous CG 150 3M&V6;	9.0;	2000;	3500;	3000
+38p;	porte disque 6 trous CG 150 JHSY;	1.0;	3500;	5000;	5000
+42p;	porte disque 6 trous CG 200 3M&V6;	1.0;	3000;	5000;	4500
+36p;	porte disque BAJA 6 trous IRUKA;	5.0;	1500;	3500;	3000
+7p;	porte disque CG 125 JHSY;	8.0;	1500;	2500;	2000
+72p;	porte disque TVS;	5.0;	1500;	3500;	3000
+18p;	porte garniture CG JHSY;	5.0;	2500;	3500;	3000
+55p;	porte garniture complet;	2.0;	3500;	4500;	4000
+19p;	porte garniture GN JHSY;	3.0;	2500;	3500;	3000
+17p;	porte pignon CGL;	4.0;	2000;	3500;	3000
+16p;	porte pignon GN;	4.0;	2500;	3500;	3000
+50p;	porte rétroviseur coté droit;	10.0;	250;	500;	500
+46p;	porte rétroviseur gauche;	11.0;	300;	500;	500
+57p;	pot de feu stop ou phare arrière complet;	5.0;	2500;	3500;	3500
+56p;	pot de feu stop ou phare arrière simple GN;	6.0;	1550;	3000;	2500
+32p;	pot de phare BAJA;	2.0;	2700;	4000;	3500
+69p;	pot de phare en plastique BAJA;	6.0;	800;	1000;	1000
+68p;	pot de phare en plastique TVS;	5.0;	800;	1000;	1000
+29p;	pot de phare FX;	1.0;	3000;	4500;	4000
+30p;	pot de phare GN;	5.0;	3300;	4500;	4000
+31p;	pot de phare senke avec chapeau;	1.0;	3500;	5000;	4500
+28p;	pot de phare TVS;	2.0;	2700;	4000;	3500
+2p;	produit de la roue;	17.0;	1300;	2000;	1800
+22p;	protège main grand;	27.0;	400;	1000;	800
+51p;	protège main petit;	12.0;	180;	500;	500
+1r;	relais de démarrage CG 125 JHSY;	9.0;	800;	1500;	1300
+28r;	renfort piston grand;	10.0;	10;	50;	50
+27r;	renfort piston petit;	10.0;	10;	50;	50
+23r;	reservoir CGL;	2.0;	12500;	16000;	14500
+24r;	reservoir GN;	2.0;	14000;	16000;	14500
+17r;	ressort de frein court;	99.0;	50;	200;	200
+14r;	ressort de frein long;	130.0;	50;	200;	200
+15r;	ressort grande bequille;	46.0;	100;	200;	200
+25r;	ressort grande bequille GN;	28.0;	100;	200;	200
+16r;	ressort petite bequille;	44.0;	75;	200;	200
+3r;	rétroviseur SANYA;	10.0;	1700;	3000;	2500
+2r;	rétroviseur SENKE;	13.0;	850;	1500;	1500
+18r;	robinet à essence CG 125 JHSY;	16.0;	600;	1000;	1000
+21r;	rondelle 13;	218.0;	15;	50;	50
+26r;	rondelle 17;	94.0;	25;	100;	50
+22r;	rondelle 19;	97.0;	30;	100;	100
+12r;	roulement 6004;	34.0;	310;	500;	500
+20r;	roulement 6008;	4.0;	1500;	2000;	2000
+19r;	roulement 6009;	4.0;	1500;	2000;	2000
+7r;	roulement 6200;	46.0;	230;	500;	500
+29r;	roulement 6201;	17.0;	200;	500;	400
+8r;	roulement 6202;	24.0;	240;	500;	500
+9r;	roulement 6204;	38.0;	350;	1000;	800
+6r;	roulement 6206;	20.0;	650;	1000;	1000
+10r;	roulement 6300;	19.0;	230;	500;	500
+13r;	roulement 6301;	60.0;	250;	500;	500
+11r;	roulement 6302;	44.0;	300;	500;	500
+5r;	roulement 6303;	8.0;	400;	1000;	800
+4r;	roulement 6304;	13.0;	500;	1000;	800
+3s;	scotch noir;	19.0;	100;	200;	200
+12s;	segment CG 125 BAJA D&C;	10.0;	800;	1500;	1500
+14s;	segment CG 125 STD+;	5.0;	650;	1500;	1000
+7s;	segment CG 150 D&C;	10.0;	650;	1500;	1000
+5s;	segment CG 150 JHSY;	23.0;	650;	1500;	1000
+6s;	segment CG 200;	5.0;	1000;	2000;	2000
+8s;	sélectionneur de vitesse;	4.0;	1000;	2000;	1500
+4s;	serre cable;	48.0;	50;	100;	100
+9s;	souflet;	10.0;	500;	1000;	1000
+1s;	soupape baja DAHE;	8.0;	500;	1500;	1000
+13s;	soupape CG 125 SARKI;	5.0;	500;	1500;	1500
+10s;	soupape CG 150 JHSY;	16.0;	420;	1500;	1000
+11s;	soupape CG 200 JHSY;	5.0;	900;	2000;	1500
+2s;	soupape TVS DAHE;	14.0;	500;	1500;	1000
+7t;	tendeur chaine BAJA;	8.0;	150;	250;	250
+4t;	tendeur chaine carter;	8.0;	200;	400;	400
+1t;	tendeur chaine CG;	48.0;	75;	200;	200
+3t;	tendeur chaine GN;	14.0;	175;	300;	250
+5t;	tendeur chaine moteur TVS;	5.0;	700;	1500;	1300
+6t;	tige de frein;	14.0;	250;	500;	500
+2t;	tuyau à essence;	98.0;	30;	100;	100
+4v;	vilbrequin 3M;	2.0;	9000;	12000;	11000
+3v;	vilbrequin DAHE;	4.0;	8500;	12000;	10000
+1v;	volant moteur CG 150 JHSY;	3.0;	4500;	6000;	5500
+2v;	volant moteur CG 200 JHSY;	1.0;	5000;	7000;	6500

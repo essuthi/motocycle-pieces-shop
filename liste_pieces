@@ -1,0 +1,339 @@
+1m,manette gauche GN,18,250,500,500
+2m,manette droit GN,10,250,500,500
+4m,manette gauche CG,17,250,500,500
+5m,manette droit CG,3,250,500,500
+2j,joint de culasse ordinaire,46,100,200,200
+7d,démarreur droit,3,900,1300,1200
+1a,amortisseur FCNCO,5,8000,11000,10000
+1j,joint de soupapes en fer et en plastique,224,50,250,150
+3j,joint de cylindre ordinaire,36,50,200,200
+5j,joint de carter ordinaire,39,50,200,200
+13j,joint de cylindre BAJA et TVS,20,50,200,200
+4j,joint de volant ou disque ordinaire,38,50,200,200
+7r,roulement 6200,46,230,500,500
+1t,tendeur chaine CG,48,75,200,200
+9r,roulement 6204,38,350,1000,800
+11b,balance CG 125 JHSY,6,1000,1500,1300
+10a,axe arrière,5,450,1000,800
+11a,axe avant,5,350,1000,800
+1g,garniture CG 125 OTUGO petit,16,600,1000,1000
+10r,roulement 6300,19,230,500,500
+12r,roulement 6004,34,310,500,500
+9c,chaine moteur en carton BAJA,5,1000,2000,1500
+1p,pompe à huile CG 125 JHSY,14,650,1500,1000
+4g,garniture avant BAJA AX10025 DAHE,97,850,1000,1000
+3p,pédale de frein CG,7,1000,2000,1800
+11c,carburateur D&C en carton,2,3250,7000,5000
+12c,carburateur en boite,5,3400,7000,5000
+5s,segment CG 150 JHSY,23,650,1500,1000
+6s,segment CG 200,5,1000,2000,2000
+7s,segment CG 150 D&C,10,650,1500,1000
+8b,bouchon reservoir CG 125 YESSONG,9,1000,1500,1300
+3a,arbre à came simple CG 150 DAHE,3,2300,3500,3000
+11r,roulement 6302,44,300,500,500
+1r,relais de démarrage CG 125 JHSY,9,800,1500,1300
+4a,arbre à came simple CG 150 3M&V6,2,2400,4000,3500
+11p,pigon arrière simple CGL FX,32,1100,1500,1300
+1s,soupape baja DAHE,8,500,1500,1000
+2a,arbre à came complet CG 125 JHSY,4,3500,5000,5000
+1c,cylindre CG 150 JHSY,4,7500,10000,9000
+2c,chaine complète CGL JHOR,3,3200,4000,4000
+3c,chaine complète TVS JHOR,14,3300,4000,4000
+2b,bougie JHSY,40,200,500,500
+1v,volant moteur CG 150 JHSY,3,4500,6000,5500
+4b,boitier CG 125 JHSY,8,2400,3500,3000
+4c,CDI JHSY,2,650,2000,1500
+13p,pochette de joins complet CG 150,12,500,1000,800
+4s,serre cable,48,50,100,100
+2p,produit de la roue,17,1300,2000,1800
+12p,pignon avat TVS MR LI,21,250,500,500
+15p,pignon arrière simple BAJA TACO,14,1100,1500,1300
+9p,pignon avant simple FX,89,250,500,500
+3b,bobine de démarrage CG 150 JHSY,5,2400,3500,3000
+8d,démarreur S JHSY,5,1000,1300,1200
+3g,garniture arrière RS 125 BAJA DAHE,91,700,1000,1000
+6c,chaine complète GN 125 FX,4,3250,4000,4000
+7c,chaine complète FCNCO,9,3300,4000,4000
+4r,roulement 6304,13,500,1000,800
+5b,bougie TYP,47,200,500,500
+2r,rétroviseur SENKE,13,850,1500,1500
+3r,rétroviseur SANYA,10,1700,3000,2500
+4p,piston CG 200 JHSY,4,1800,3500,3000
+7b,bougie MTR,50,250,500,500
+10c,chaine moteur TVS,3,1000,2000,1500
+5p,piston FCNCO STD+ 150,16,1500,2500,2500
+5r,roulement 6303,8,400,1000,800
+6r,roulement 6206,20,650,1000,1000
+1l,lazer anti brouillard 3W&V6,2,1300,2500,2000
+10b,bougie stihl BM6A,8,350,1000,500
+8r,roulement 6202,24,240,500,500
+8p,pignon arrière simple GN FX,3,1100,1500,1500
+8c,chaine complète CGL 125 JHSY,4,3500,4000,4000
+6b,bouchon reservoir GN 125 YESONG,11,1000,1500,1500
+9b,bille volant,13,250,1500,1000
+1b,bougie baja DAHE,44,200,500,500
+2g,garniture RX 125 JHSY,93,850,1000,1000
+5c,claçon petit 3M & V6,11,500,1000,1000
+1d,disque CG 200 JHSY,5,1100,2000,2000
+2d,disque CG 125 JHSY,13,700,1500,1300
+7p,porte disque CG 125 JHSY,8,1500,2500,2000
+3d,demarreur automtique,4,4300,6000,7500
+13c,chargeur baterrie CG 125 JHSY,4,1000,2000,1500
+4d,disque CG 125  MTR,5,1000,2000,2000
+1f,fusible,97,25,100,100
+5d,disque baja BJ100,8,800,1500,1500
+10p,pignon avec calle,20,350,1000,800
+6d,démarreur senke JHSY,8,900,1300,1200
+9d,démarreur tryicyle,2,1500,2500,2500
+8s,sélectionneur de vitesse,4,1000,2000,1500
+5a,axe arriere BAJA,3,700,1300,1000
+6a,axe arrière TVS,3,900,1500,1300
+14p,pochette de joins BAJA,5,500,1000,1000
+7a,axe pignon avant CG 125 3M,5,1000,2000,1500
+8a,axe pigon avant CG 150 JHSY,9,1000,2000,1500
+9a,axe central,18,400,1000,800
+13r,roulement 6301,62,250,500,500
+3s,scotch noir,21,100,200,200
+16p,porte pignon GN,4,2500,3500,3000
+17p,porte pignon CGL,4,2000,3500,3000
+18p,porte garniture CG JHSY,5,2500,3500,3000
+19p,porte garniture GN JHSY,3,2500,3500,3000
+15r,ressort grande bequille,46,100,200,200
+12b,bavette petite simple SANILI,19,250,500,500
+13b,bavette petit du complet SANILI,5,250,500,500
+14b,bavette large du complet SANILI,2,450,1000,800
+15b,bavette large du complet NANFAN,5,450,1000,800
+16b,bavette petit du complet NANFAN,4,250,500,500
+2f,faiseau GN 125 JHSY,4,2500,3500,3000
+3f,faiseau CG125 JHSY,2,2500,3500,3000
+29p,pot de phare FX,0,3000,4500,4000
+14a,ampoule ronde,88,130,300,300
+15a,ampoule feu stop arrière,32,150,300,250
+8j,joint de carter BAJA,10,50,200,200
+9j,joint de carter TVS,10,50,200,200
+6j,joint de culasse BAJA,10,50,200,200
+7j,joint de culasse TVS,10,50,200,200
+10j,joint de volant ou disque BAJA,10,50,200,200
+11j,joint de volant ou disque TVS,10,50,200,200
+26c,chambre à aire 300/18 CST,5,2200,3000,2500
+9s,souflet,10,500,1000,1000
+15c,clé de contact CG 125 D&C,5,600,1000,1000
+17c,clé de contact senke YESSONG,10,1100,2000,1500
+17b,bille du guidon GS  125 JHSY,10,600,1000,1000
+18b,bille du guidon CG 125 JHSY,7,550,1000,1000
+18c,chargeur batterie CG 200 JHSY,3,1500,2500,2000
+10s,soupape CG 150 JHSY,16,420,1500,1000
+11s,soupape CG 200 JHSY,5,900,2000,1500
+20p,plaquette de frein GN 125 JHSY,17,400,1000,700
+3l,levier de vitesse,13,600,1000,1000
+19c,cable embreyage BAJA D&C,19,450,1000,800
+20c,cable embreyage TVS BRH,20,450,1000,800
+21c,cable accélerateur TVS BRH,20,450,1000,800
+21p,porte baterrie,15,100,200,200
+19b,boulon porte pignon complet GN,20,200,500,500
+20b,boulon plateau GN,17,250,500,500
+24c,chaine simple 3M&V6 BAJA,12,2000,2500,2500
+23p,piston CG 125 3M&V6,3,1400,2500,2500
+24p,piston BAJA en carton 3M&V6,2,1400,2500,2500
+25p,piston BAJA en boite D&C,6,1500,2500,2500
+12s,segment CG 125 BAJA D&C,10,800,1500,1500
+26p,piston TVS D&C,5,1400,2500,2500
+27p,piston CD 110,5,1400,2500,2500
+28p,pot de phare TVS,2,2700,4000,3500
+30p,pot de phare GN,5,3300,4500,4000
+31p,pot de phare senke avec chapeau,1,3500,5000,4500
+32p,pot de phare BAJA,2,2700,4000,3500
+21b,bague tuyau echapement GN 125 TVS PH,19,50,200,200
+6f,feu stop en paquet,4,800,1200,1000
+7f,feu stop rond petit,3,600,1000,800
+8f,feu stop rond gros,2,1000,1500,1300
+9f,feu stop stop,4,1000,1500,1300
+2s,soupape TVS DAHE,14,500,1500,1000
+28c,chambre à aire 300/18 OREAL TUBE,23,1000,2000,1500
+23b,bague échappement complet GN,2,600,1000,800
+24b,bague échappement CG,2,600,1000,800
+6g,guide soupape,5,400,1000,1000
+34p,poignet accélérateur,10,250,1000,1000
+14r,ressort de frein long,131,50,200,200
+16r,ressort petite bequille,44,75,200,200
+17r,ressort de frein court,99,50,200,200
+18r,robinet à essence CG 125 JHSY,16,600,1000,1000
+11d,disque CG 125 MTR,9,1000,2000,2000
+31c,charbon de démarreur CG 150 MTR,5,800,1500,1300
+7g,gorge carburateur CGL,10,450,1500,1000
+8g,gorge carburateur GN,3,700,1500,1500
+9g,gorge carburateur CG,2,1000,1500,1500
+25b,bobine de démarrage CG 150 3M&V6,3,2450,3500,3000
+13a,ampoule feu stop SIDER,76,70,200,200
+33p,poignet à huile coté droit GN 125 DAHE,4,1600,2500,2500
+3m,moteur clignottant JHSY,19,300,1000,700
+25c,colle reservoir,23,500,1000,800
+14c,chambre à aire 350/16 CST,11,2100,3000,2500
+5f,filtre à essence,40,75,200,200
+5g,garniture RS 125 PHOENIX,77,850,1000,1000
+2l,laser anti brouillard D&C,1,1500,2500,2000
+10d,douille de feu stop,29,150,250,200
+22c,colle bleu,12,500,1000,800
+22p,protège main grand,27,400,1000,800
+64p,pignon simple BAJA 3M&V6,2,1700,2000,2000
+30c,chambre à aire 250/17 CST,12,1900,2500,2500
+16c,clé de contact GN 125 YESSONG,6,900,1500,1500
+27c,chambre  à aire 300/17 OREAL TUBE,5,1000,2000,1500
+22b,bague tuyau échapement GN 125,18,50,200,200
+12a,ampoule clignottant,65,40,100,100
+29c,chambre à aire 300/17 CST,14,2000,3000,2500
+2t,tuyau à essence,98,30,100,100
+23c,chaine complète BAJA 3M&V6,4,3800,4500,4500
+26b,bobine de démarrage CG 200 3M&V6,2,3500,5000,4500
+33b,boulon 17,47,75,150,100
+32b,boulon 10 court,90,25,50,50
+21r,rondelle 13,216,15,50,50
+18a,arbre à came CG 125 3W&V6,4,3300,5000,5000
+24r,reservoir GN,2,14000,16000,14500
+46p,porte rétroviseur gauche,11,300,500,500
+33c,cylindre CG 150 DAHE,1,7500,10000,9000
+13s,soupape CG 125 SARKI,5,500,1500,1500
+36p,porte disque BAJA 6 trous IRUKA,5,1500,3500,3000
+12d,disque CG 125 3M&V6,3,700,1500,1300
+37p,porte disque 4 trous CG 125 JHSY,3,1400,2500,2500
+38p,porte disque 6 trous CG 150 JHSY,1,3500,5000,5000
+2v,volant moteur CG 200 JHSY,1,5000,7000,6500
+10g,garniture CG 125 OTUGO grand,2,600,1000,1000
+19r,roulement 6009,4,1500,2000,2000
+40p,porte disque 6 trous CG 150 3M&V6,9,2000,3500,3000
+41p,porte disque 5 trous simple CG150 3M&V6,1,1500,2500,2500
+42p,porte disque 6 trous CG 200 3M&V6,1,3000,5000,4500
+43p,porte disque 3 trous CG 150 3M&V6,1,1500,2500,2500
+44p,porte disque 5 trous complet CG 150 3M&V6,1,2000,3500,3500
+34c,chambre à aire 500/12 CST,3,2000,3500,3000
+35c,chambre à aire 275/18 CST,8,1900,2500,2500
+3t,tendeur chaine GN,15,175,300,250
+1e,ecrou 19,47,75,200,200
+29b,boulon porte pignon CG senke,8,250,500,500
+30b,boulon porte pigon BAJA,3,250,500,500
+13d,demi arbre BAJA,5,500,1000,800
+14d,demi arbre TVS,5,750,1000,1000
+4t,tendeur chaine carter,8,200,400,400
+20r,roulement 6008,4,1500,2000,2000
+36c,croison petit,3,1500,3000,3000
+47p,pigon plateau 38T,1,3200,4500,4000
+48p,pignon plateau 37T,1,3200,4500,4000
+11g,garniture petit tricycle MR LI,2,4000,5000,5000
+3v,vilbrequin DAHE,4,8500,12000,10000
+50p,porte rétroviseur coté droit,10,250,500,500
+31b,boulon 10 long,8,25,50,50
+34b,boulon 13 long,6,75,100,150
+36b,boulon 13 court,94,45,100,100
+37b,boulon et ecrou pot de phare,100,30,100,100
+12g,garniture gros tricycle,4,4500,5000,5000
+37c,cable nu,384,25,200,200
+38c,capo GN,5,2400,3000,2800
+39c,capo CG,5,2400,3000,2800
+38b,bouchon moteur,18,150,300,250
+40c,caoutchouc pose pied,10,500,1000,1000
+4l,lecteur MP3 petit,5,5500,6500,6000
+32c,chaine simple DAHE,7,1550,2000,2000
+35p,piston CG 150 STD++ 3M&V6,7,1500,2500,2500
+19a,ampoule en paquet JHSY,36,250,500,500
+17a,arret huile en paquet CG 150 CNAZA,8,100,200,200
+27b,bille complet du volant CG 200 MR LI,0,2200,4000,3500
+51p,protège main petit,12,180,500,500
+2e,ecrou 17,48,60,200,200
+39p,piston CG 150 STD+ 3M&V6,0,1400,2500,2500
+16a,axe du pousse FUKI,7,400,800,600
+35b,boulon 13 moyen,78,35,100,150
+3e,ecrou 13,82,15,50,50
+13g,garde boue avant CGL,4,2700,3500,3500
+14g,garde boue avant GN,2,2700,3500,3500
+15g,garde boue arrière GN,2,2800,4000,3500
+41c,couvre chaine GN,4,1500,2500,2000
+42c,couvre chaine CGL SENKE,2,2200,3500,3500
+43c,couvre chaine BAJA,1,3000,4500,4000
+39b,boite à marche arrière tricycle,1,14000,16000,15500
+59p,plaque SANILI,10,250,500,500
+23r,reservoir CGL,2,12500,16000,14500
+11f,fourche CGL SENKE,1,14000,18000,16000
+12f,fourche GN,1,15000,18000,16500
+28b,boulon couvre chaine et pignon avant,192,20,50,50
+22r,rondelle 19,98,30,100,100
+5l,lecteur MP3 grand,1,6500,8000,7500
+52p,porte clé,18,83,200,200
+44c,chaine complète BAJA D&C,2,3500,5000,4500
+60p,poignet bouton rouge GN,10,1000,2000,1500
+53p,poignet bouton rouge GK,8,1100,2000,1500
+20a,amortisseur GN,1,8000,10000,9500
+55p,porte garniture complet,2,3500,4500,4000
+56p,pot de feu stop ou phare arrière simple GN,6,1550,3000,2500
+57p,pot de feu stop ou phare arrière complet,5,2500,3500,3500
+45c,clignotant,29,500,1000,800
+70p,poignet bouton bleu simple gauche GK,4,350,500,500
+16g,gente arrière GN,2,14500,17000,16000
+17g,gante arrière CGL,1,14500,17000,16000
+18g,gente arrière TVS,1,14000,17000,16000
+71p,poignet complet gauche GN,5,300,500,500
+67p,pneu 275/17 avant BLEU,7,5200,6000,6000
+25r,ressort grande bequille GN,28,100,200,200
+23a,arret huile fourche 44,8,150,300,300
+52c,cable accélérateur GN,80,300,1000,700
+52b,batterie MBOMA grand,2,8500,12000,11000
+61p,pneu 300/18 CST,4,12200,13500,13000
+65p,pneu 275/18 oreal STP et CORDIAL,6,5500,6000,6000
+66p,pneu 300/18 STP,10,6400,8000,7500
+6t,tige de frein,15,250,500,500
+16d,disque compté,20,1400,2000,2000
+58c,chaine moteur BAJA en paquet,2,1000,2000,1800
+5t,tendeur chaine moteur TVS,5,700,1500,1300
+68p,pot de phare en plastique TVS,5,800,1000,1000
+41b,bouteille huile YEMPCO,26,1125,1500,1500
+45b,bouteille huile  de frein petit SEKAZOL,41,292,500,500
+46c,cylinbloc pour la roue,128,100,200,200
+47c,cylinbloc demi chassi,62,100,200,200
+48c,cylinbloc du guidon,12,100,200,200
+49c,cable embreyage GN,91,300,1000,700
+50c,cable embreyage CG 125,36,300,1000,700
+51c,cable accélérateur CG 125,33,300,1000,700
+53c,cable embreyage BAJA 3W&V6,10,450,1000,700
+55c,cable accélérateur en sachet CG 125 FB,68,300,1000,700
+56c,cable accélérateur en sachet GN 125 SENLI,12,300,1000,700
+19g,graisse,324,66,100,100
+57c,claçon grand YH 7615,1,1500,2500,2500
+72p,porte disque TVS,5,1500,3500,3000
+59c,calle pignon avant TVS et BAJA,20,100,200,200
+4v,vilbrequin 3M,2,9000,12000,11000
+20g,guidon GN,2,1800,2500,2500
+21g,guidon CG,2,1800,2500,2500
+14j,jeu de bille volant moteur complet,2,1500,3000,2500
+60c,chaine à aire 300/16 OREAL TUBE,10,1400,2500,2000
+53b,batterie MBOMA petit,2,6300,9000,8500
+54b,batterie JHSY grand,1,5800,7000,6500
+55b,bettrie JHSY petit,1,7500,10000,9000
+56b,boulon de pignon BAJA,1000,15,50,25
+57b,boulon de vidange 24,10,300,500,500
+14s,segment CG 125 STD+,5,650,1500,1000
+25a,accide batterie,20,250,500,500
+14f,feu stop rectangle police,5,1000,1500,1300
+27r,renfort piston petit,10,10,50,50
+28r,renfort piston grand,10,10,50,50
+62p,pneu 300/16 CST,3,13300,14500,14000
+63p,pneu 300/17 CST,5,12300,13500,13000
+48b,bouteille huile BOCOM,25,1750,2000,2000
+7t,tendeur chaine BAJA,8,150,250,250
+21a,arret huile fourche BAJA,8,150,300,300
+15d,douille de phare,8,300,500,500
+13f,fronde,96,125,200,200
+24a,arret huile demarreur,9,100,200,200
+22a,arret huile fourche 43,9,150,300,300
+43b,bouteille huile MACAT 5L,4,4417,5000,5000
+26r,rondelle 17,94,25,100,50
+58p,pneu 300/17 STP,7,6400,8000,7500
+50b,bouteille huile de direction ATF,11,1167,1500,1500
+49b,bouteille huile YAMALUBE,42,2350,2600,2500
+10f,feu stop long,7,400,1000,800
+44b,bouteille huile national,6,1583,1800,1800
+54c,cable accélérateur BAJA 3W&V6,10,400,1000,700
+69p,pot de phare en plastique BAJA,7,800,1000,1000
+42b,bouteille huile MACAT 1L,20,1209,1500,1500
+46b,bouteille huile de frein e5,16,717,1000,1000
+47b,bouteille huile PETROGOLF,7,1834,2000,2000
+51b,bouteille huile super,128,200,250,250
+40b,bavette simple ordinaire,15,550,1000,800
